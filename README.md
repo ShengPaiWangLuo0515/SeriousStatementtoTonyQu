@@ -8,9 +8,9 @@ https://github.com/shnug/communitystats
 
 所涉及 Issue：
 https://github.com/shnug/communitystats/issues/1
-https://github.com/shnug/communitystats/issues/2
-https://github.com/shnug/communitystats/issues/3
+https://github.com/shnug/communitystats/issues/3 
 https://github.com/shnug/communitystats/issues/4
+https://github.com/shnug/communitystats/issues/5
 
 ## Engligh
 
@@ -22,9 +22,9 @@ https://github.com/shnug/communitystats
 
 Issues involved:
 https://github.com/shnug/communitystats/issues/1
-https://github.com/shnug/communitystats/issues/2
 https://github.com/shnug/communitystats/issues/3
 https://github.com/shnug/communitystats/issues/4
+https://github.com/shnug/communitystats/issues/5
 
 ## Official Document
 
